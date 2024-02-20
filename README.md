@@ -1,4 +1,5 @@
 ### Hi there 👋
+This Project is for the creation and launching of my portfolio/profile site.
 
 <!--
 **HaruGrossman/HaruGrossman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
